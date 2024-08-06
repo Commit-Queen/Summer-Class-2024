@@ -18,7 +18,6 @@ This repository serves as a showcase for the AI-generated celebrity art pieces. 
 - **Google Fonts**: Utilizing "Play" and "Titillium Web" fonts for typography. [Play](https://fonts.google.com/specimen/Play) and [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
 - Deep AI Platform: Used for generating the AI artworks based on specified styles.
 - HTML and CSS: Basic web development techniques used to display the gallery.
-- GitHub Pages: Hosts the gallery to make it accessible online.
 
 ## How to View
 To view the gallery:
