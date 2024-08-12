@@ -9,6 +9,7 @@ The gallery includes a collection of celebrity portraits reimagined through diff
 - **Cyberpunk**: Provides a futuristic, neon-lit interpretation of celebrities, blending technology and art.
 - **Pop Art**: Applies vibrant colors, bold outlines, and patterns inspired by the pop art movement to iconic figures.
 - **Renaissance**: Mimics the classic techniques of Renaissance portraiture, with emphasis on light, shadow, and composition.
+- **Zombies**: Blends haunting, unsettling reinterpretations of dark creativity with captivating, eerie detail.
 
 ## Usage
 This repository serves as a showcase for the AI-generated celebrity art pieces. You can explore different styles and appreciate the creativity enabled by artificial intelligence.
